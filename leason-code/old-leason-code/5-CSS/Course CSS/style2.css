@@ -1,0 +1,18 @@
+h2{
+    color: aqua;
+}
+p {
+    font-size: 20px;
+    text-transform: capitalize;
+    padding: -20px;
+}
+div {
+    border: 30px solid rebeccapurple;
+    margin: -30px;
+}
+span{
+    font-size: 100px;
+}
+a {
+    text-decoration : underline wavy red;
+}
