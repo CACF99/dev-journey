@@ -1,6 +1,6 @@
 # Developer Save State
 
 ## [Date: 2026-10-02]
-- **Accomplished today:nothing much studying, but i added all the studying files/folders to github for personal accountability, imma look back to this and thank my past me 🙏** 
+- **Accomplished today:today after watching 30 different vids about web dev "how to in 2026" i came to the conclusion  that only way to study is to ***DO*** so i opened a new project and created a new react project using CRA and vite....thats it but i leant things. omw tomorrow** 
 - **Blockers / confusion:N/A** 
-- **Tomorrow's single next step:i will start the React section again, and won't just watch the vids. but i will code along and will try to use what i learnt into a project of my own**
+- **Tomorrow's single next step:follow along with the react section, and try to recreate that i leant>fail>look it up> learn**
